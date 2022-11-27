@@ -1,0 +1,41 @@
+.boxred {
+    background-color: #f00;
+    height: 100px;
+    outline: 1px solid #fff;
+    width: 100px;
+}
+
+.boxgreen {
+    background-color: #0f0;
+    height: 100px;
+    outline: 1px solid #fff;
+    width: 100px;
+}
+
+.boxblue {
+    background-color: #00f;
+    height: 100px;
+    outline: 1px solid #fff;
+    width: 100px;
+}
+
+/* CSSOO */
+
+
+.box {
+    height: 100px;
+    outline: 1px solid #fff;
+    width: 100px;
+}
+
+.box-red {
+    background-color: #f00;
+}
+
+.box-green {
+    background-color: #0f0;
+}
+
+.box-blue {
+    background-color: #00f;
+}
