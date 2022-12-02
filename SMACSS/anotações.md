@@ -24,3 +24,13 @@ Componentes mais específicos, estarão geralmente dentro dos layouts
 
 Evitar usar elementos dentro do modulo -> use uma classe para o elemento que será estilizado
 Não se usa ids nos módulos
+
+## Estados
+Indicam que determinado elemento está em determinado estado
+Incrementa ou modifica determinado elemento usa o prefixo is-
+Geralmento associados ao javascript e inseridos dinamicamente
+
+## Tema
+Conjunto de cores, imagens e elementos.
+prefixo: theme-
+
