@@ -1,0 +1,15 @@
+/* Bloco */
+.search {}
+
+/* Elemento */
+.search__field {}
+
+/* Modificador */
+.search__field--error {}
+
+
+/* ------------ */
+.person {}
+.person__hand {}
+.person--female__hand {}
+.person__hand--left {}
